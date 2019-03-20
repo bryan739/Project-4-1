@@ -1,0 +1,35 @@
+.top{
+    background-color: yellow;
+    display:flex;
+    justify-content:center;
+    padding-bottom: 80px;
+    text-align:center;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px 0;
+}
+.top{
+    border: 10px solid black;
+}
+img{
+    width: 10px;
+    width: 65%;
+    height: 10%;
+    font-size: 0px;
+    border: 8px solid black;
+}
+.middle{
+    display:flex;
+    justify-content:flex-end;
+    border: 10px solid black;
+}
+.third{
+    display:flex;
+    justify-content:flex-start;
+    border: 10px solid black;
+    margin:2px;
+}
+.last{
+    display:flex;
+    justify-content:flex-end;
+}
